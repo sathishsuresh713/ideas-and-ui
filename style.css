@@ -1,0 +1,56 @@
+.bgcolour{
+    background-image: linear-gradient(to bottom right,pink,rgb(250, 250, 121));
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    margin: auto;
+}
+.size{
+    width: 70%;
+    margin: auto;
+}
+.inp-des{
+    width: 240px;
+    padding: 6px;
+}
+.btn-des{
+    background-image: linear-gradient(to right,rgba(65, 65, 228, 0.699),rgba(0, 0, 255, 0.925));
+    border: none;
+    padding: 6px;
+    width: 240px;
+    color: white;
+}
+.p1{
+    width: 95%;
+}
+.p2{
+    width: 90%;
+}
+.p2, .p3{
+    font-size: 15px;
+}
+.p5{
+    font-size: 13px;
+}
+.first{
+    position: relative;
+}
+.second{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+.cross{
+    background-color: rgb(252, 249, 249);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 19%;
+    left: 82%;
+}
+.des{
+    text-align: center;
+    padding-left: 9px;
+    padding-top: 7px;
+}
